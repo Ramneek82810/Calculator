@@ -1,4 +1,5 @@
 # Python Calculator 🧮
+
 Welcome to the Python Calculator project! A simple yet powerful tool for performing basic arithmetic operations with ease.
 
 ## Features ✨
