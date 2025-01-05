@@ -4,13 +4,20 @@ Welcome to the Python Calculator project! A simple yet powerful tool for perform
 
 ## Features ✨
 
--Perform basic arithmetic operations:
-Addition ➕
-Subtraction ➖
-Multiplication ✖️
-Division ➗
+Perform basic arithmetic operations:
+
+-Addition ➕
+
+-Subtraction ➖
+
+-Multiplication ✖️
+
+-Division ➗
+
 -User-friendly interactive input 🖱️
+
 -Error handling for invalid inputs (e.g., dividing by zero) 🚫
+
 -Built with simplicity and efficiency in mind 🚀
 
 ## Table of Contents 📚
