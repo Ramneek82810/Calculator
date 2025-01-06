@@ -23,10 +23,15 @@ Perform basic arithmetic operations:
 ## Table of Contents 📚
 
 About the Project 📖
+
 How It Works ⚙️
+
 Why This Project? ❓
+
 Getting Started 🛠️
+
 Contributing 🤝
+
 License 📜
 
 ## About the Project 🌟
