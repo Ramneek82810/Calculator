@@ -22,17 +22,17 @@ Perform basic arithmetic operations:
 
 ## Table of Contents 📚
 
-About the Project 📖
+-About the Project 📖
 
-How It Works ⚙️
+-How It Works ⚙️
 
-Why This Project? ❓
+-Why This Project? ❓
 
-Getting Started 🛠️
+-Getting Started 🛠️
 
-Contributing 🤝
+-Contributing 🤝
 
-License 📜
+-License 📜
 
 ## About the Project 🌟
 This Python calculator project is your go-to solution for handling simple math operations. It’s beginner-friendly and demonstrates core programming concepts like input validation, computation, and error handling.
