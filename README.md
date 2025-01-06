@@ -21,6 +21,7 @@ Perform basic arithmetic operations:
 -Built with simplicity and efficiency in mind 🚀
 
 ## Table of Contents 📚
+
 About the Project 📖
 How It Works ⚙️
 Why This Project? ❓
