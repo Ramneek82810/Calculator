@@ -35,6 +35,7 @@ Perform basic arithmetic operations:
 -License 📜
 
 ## About the Project 🌟
+
 This Python calculator project is your go-to solution for handling simple math operations. It’s beginner-friendly and demonstrates core programming concepts like input validation, computation, and error handling.
 
 ## How It Works 🧠
