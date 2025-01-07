@@ -39,8 +39,11 @@ Perform basic arithmetic operations:
 This Python calculator project is your go-to solution for handling simple math operations. It’s beginner-friendly and demonstrates core programming concepts like input validation, computation, and error handling.
 
 ## How It Works 🧠
+
 Input: Enter two numbers and choose an operator (like +, -, *, /).
+
 Computation: The calculator processes your input and computes the result.
+
 Output: Displays the result or an error message if something went wrong.
 
 ## Why This Project? 🤔
