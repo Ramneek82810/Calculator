@@ -47,7 +47,9 @@ This Python calculator project is your go-to solution for handling simple math o
 -Output: Displays the result or an error message if something went wrong.
 
 ## Why This Project? 🤔
+
 This project is perfect for:
+
 -Beginners exploring Python programming 🐍
 -Learning how to handle user input and errors 🎯
 -Building confidence in coding simple, functional projects 💪
