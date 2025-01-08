@@ -53,6 +53,7 @@ This project is perfect for:
 -Beginners exploring Python programming 🐍
 
 -Learning how to handle user input and errors 🎯
+
 -Building confidence in coding simple, functional projects 💪
 
 ## Getting Started 🚀
