@@ -57,6 +57,7 @@ This project is perfect for:
 -Building confidence in coding simple, functional projects 💪
 
 ## Getting Started 🚀
+
 Prerequisites
 -A device with Python 3.x installed 💻
 
