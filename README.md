@@ -68,6 +68,7 @@ Steps
 -Run the script and start calculating 🎉
 
 ## Contributing ❤️
+
 Want to make this calculator even better? We’d love your help!
 
 ## Fork the repository 🍴
