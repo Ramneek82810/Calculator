@@ -65,6 +65,7 @@ Prerequisites
 Steps
 
 -Clone the repository to your local machine 📥
+
 -Navigate to the project folder 📂
 -Run the script and start calculating 🎉
 
