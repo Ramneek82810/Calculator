@@ -81,6 +81,7 @@ Want to make this calculator even better? We’d love your help!
 -Submit a pull request, and let’s collaborate 🤝
 
 ##License 📝
+
 This project is licensed under the MIT License. Feel free to use it and spread the love!
 
 Enjoy using the Python Calculator and make math fun! 🎉
