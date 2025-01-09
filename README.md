@@ -63,6 +63,7 @@ Prerequisites
 -A device with Python 3.x installed 💻
 
 Steps
+
 -Clone the repository to your local machine 📥
 -Navigate to the project folder 📂
 -Run the script and start calculating 🎉
