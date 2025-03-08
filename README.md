@@ -30,7 +30,7 @@ Perform basic arithmetic operations:
 
 - Getting Started 🛠️
 
--Contributing 🤝
+- Contributing 🤝
 
 -License 📜
 
