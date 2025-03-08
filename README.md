@@ -58,7 +58,7 @@ This project is perfect for:
 
 ## Getting Started 🚀
 
-Prerequisites
+### Prerequisites
 
 -A device with Python 3.x installed 💻
 
