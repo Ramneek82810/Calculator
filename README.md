@@ -18,7 +18,7 @@ Perform basic arithmetic operations:
 
 - Error handling for invalid inputs (e.g., dividing by zero) 🚫
 
--Built with simplicity and efficiency in mind 🚀
+- Built with simplicity and efficiency in mind 🚀
 
 ## Table of Contents 📚
 
