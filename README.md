@@ -62,7 +62,7 @@ This project is perfect for:
 
 -A device with Python 3.x installed 💻
 
-Steps
+### Steps
 
 -Clone the repository to your local machine 📥
 
