@@ -24,7 +24,7 @@ Perform basic arithmetic operations:
 
 - About the Project 📖
 
--How It Works ⚙️
+- How It Works ⚙️
 
 -Why This Project? ❓
 
