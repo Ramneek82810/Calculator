@@ -12,7 +12,7 @@ Perform basic arithmetic operations:
 
 - Multiplication ✖️
 
--Division ➗
+- Division ➗
 
 -User-friendly interactive input 🖱️
 
