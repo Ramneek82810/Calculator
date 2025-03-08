@@ -22,7 +22,7 @@ Perform basic arithmetic operations:
 
 ## Table of Contents 📚
 
--About the Project 📖
+- About the Project 📖
 
 -How It Works ⚙️
 
