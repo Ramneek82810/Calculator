@@ -10,7 +10,7 @@ Perform basic arithmetic operations:
 
 - Subtraction ➖
 
--Multiplication ✖️
+- Multiplication ✖️
 
 -Division ➗
 
