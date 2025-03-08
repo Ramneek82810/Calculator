@@ -28,7 +28,7 @@ Perform basic arithmetic operations:
 
 - Why This Project? ❓
 
--Getting Started 🛠️
+- Getting Started 🛠️
 
 -Contributing 🤝
 
