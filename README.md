@@ -6,7 +6,7 @@ Welcome to the Python Calculator project! A simple yet powerful tool for perform
 
 Perform basic arithmetic operations:
 
--Addition ➕
+- Addition ➕
 
 -Subtraction ➖
 
