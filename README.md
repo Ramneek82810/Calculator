@@ -14,7 +14,7 @@ Perform basic arithmetic operations:
 
 - Division ➗
 
--User-friendly interactive input 🖱️
+- User-friendly interactive input 🖱️
 
 -Error handling for invalid inputs (e.g., dividing by zero) 🚫
 
