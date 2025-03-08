@@ -8,7 +8,7 @@ Perform basic arithmetic operations:
 
 - Addition ➕
 
--Subtraction ➖
+- Subtraction ➖
 
 -Multiplication ✖️
 
