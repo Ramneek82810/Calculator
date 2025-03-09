@@ -40,7 +40,7 @@ This Python calculator project is your go-to solution for handling simple math o
 
 ## How It Works 🧠
 
--Input: Enter two numbers and choose an operator (like +, -, *, /).
+- Input: Enter two numbers and choose an operator (like +, -, *, /).
 
 -Computation: The calculator processes your input and computes the result.
 
