@@ -44,7 +44,7 @@ This Python calculator project is your go-to solution for handling simple math o
 
 - Computation: The calculator processes your input and computes the result.
 
--Output: Displays the result or an error message if something went wrong.
+- Output: Displays the result or an error message if something went wrong.
 
 ## Why This Project? 🤔
 
