@@ -32,7 +32,7 @@ Perform basic arithmetic operations:
 
 - Contributing 🤝
 
--License 📜
+- License 📜
 
 ## About the Project 🌟
 
