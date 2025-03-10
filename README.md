@@ -54,7 +54,7 @@ This project is perfect for:
 
 - Learning how to handle user input and errors 🎯
 
--Building confidence in coding simple, functional projects 💪
+- Building confidence in coding simple, functional projects 💪
 
 ## Getting Started 🚀
 
