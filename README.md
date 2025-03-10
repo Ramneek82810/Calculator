@@ -50,7 +50,7 @@ This Python calculator project is your go-to solution for handling simple math o
 
 This project is perfect for:
 
--Beginners exploring Python programming 🐍
+- Beginners exploring Python programming 🐍
 
 -Learning how to handle user input and errors 🎯
 
