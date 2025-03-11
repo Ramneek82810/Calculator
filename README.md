@@ -60,7 +60,7 @@ This project is perfect for:
 
 ### Prerequisites
 
--A device with Python 3.x installed 💻
+- A device with Python 3.x installed 💻
 
 ### Steps
 
