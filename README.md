@@ -76,7 +76,7 @@ Want to make this calculator even better? We’d love your help!
 
 ## Fork the repository 🍴
 
--Add new features or improve the existing ones 🌟
+- Add new features or improve the existing ones 🌟
 
 -Submit a pull request, and let’s collaborate 🤝
 
