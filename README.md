@@ -64,7 +64,7 @@ This project is perfect for:
 
 ### Steps
 
--Clone the repository to your local machine 📥
+- Clone the repository to your local machine 📥
 
 -Navigate to the project folder 📂
 
