@@ -68,7 +68,7 @@ This project is perfect for:
 
 - Navigate to the project folder 📂
 
--Run the script and start calculating 🎉
+- Run the script and start calculating 🎉
 
 ## Contributing ❤️
 
