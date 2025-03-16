@@ -85,4 +85,3 @@ Want to make this calculator even better? We’d love your help!
 This project is licensed under the MIT License. Feel free to use it and spread the love!
 
 Enjoy using the Python Calculator and make math fun! 🎉
-
