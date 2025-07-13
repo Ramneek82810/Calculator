@@ -1,87 +1,78 @@
-# Python Calculator 🧮
+# 🧮 GUI Calculator using Python
 
-Welcome to the Python Calculator project! A simple yet powerful tool for performing basic arithmetic operations with ease.
+A simple yet powerful GUI calculator built with Python's Tkinter library. This calculator supports basic arithmetic operations and offers an intuitive interface for quick calculations. Ideal for beginners to learn GUI development in Python and event-driven programming.
 
-## Features ✨
+## 🚀 Features
 
-Perform basic arithmetic operations:
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
+- 🖱️ Button-based interaction with real-time expression building  
+- 🔄 Clear button to reset the entire input field  
+- 🧠 Uses `eval()` for evaluating expressions  
+- 🔢 Display panel updates dynamically as the user inputs values  
+- 💡 Minimal and clean user interface using Tkinter  
+- 🪶 Lightweight – no external libraries required  
 
-- Addition ➕
+## 📁 Project Structure
 
-- Subtraction ➖
+```
+Calculator/
+│
+├── calculator.py           # Main application file containing GUI code and logic
+└── README.md               # You're reading it!
+```
 
-- Multiplication ✖️
+## ⚙️ Installation
 
-- Division ➗
+### 1. Clone the Repository
 
-- User-friendly interactive input 🖱️
+```
+git clone https://github.com/Ramneek82810/Calculator.git
+cd Calculator
+```
 
-- Error handling for invalid inputs (e.g., dividing by zero) 🚫
+### 2. Run the Application
 
-- Built with simplicity and efficiency in mind 🚀
+```
+python calculator.py
+```
 
-## Table of Contents 📚
+> ✅ Make sure you have **Python 3.x** installed. No additional installations are required since Tkinter comes pre-installed with Python.
 
-- About the Project 📖
+## 💡 How It Works
 
-- How It Works ⚙️
+- Uses `tkinter.Tk()` to launch a GUI window  
+- Buttons are placed using grid layout for a calculator-like look  
+- Button click events are bound to update the input field  
+- The `eval()` function is used to compute the entered arithmetic expression  
+- Handles invalid operations with basic error handling  
 
-- Why This Project? ❓
+## 📌 Todo / Future Enhancements
 
-- Getting Started 🛠️
+- ⌨️ Keyboard support for direct typing  
+- 🧮 Add scientific operations: square root, exponent, logarithm, etc.  
+- 🌙 Dark/light theme toggle  
+- 🧾 Calculation history  
+- 🧪 Unit tests for calculator logic (for CLI/testing mode)  
+- 🌐 Web version using Streamlit or Flask  
 
-- Contributing 🤝
+## 📚 Learning Objectives
 
-- License 📜
+This project helps beginners understand:
 
-## About the Project 🌟
+- Event-driven programming in Python  
+- GUI development using Tkinter  
+- Grid layouts and widget bindings  
+- Basic error handling  
+- Application structuring for small tools  
 
-This Python calculator project is your go-to solution for handling simple math operations. It’s beginner-friendly and demonstrates core programming concepts like input validation, computation, and error handling.
+## 🤝 Contributing
 
-## How It Works 🧠
+Contributions are welcome to improve UI, add features, or fix bugs. To contribute:
 
-- Input: Enter two numbers and choose an operator (like +, -, *, /).
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Commit your changes  
+4. Push to your branch  
+5. Create a pull request
 
-- Computation: The calculator processes your input and computes the result.
 
-- Output: Displays the result or an error message if something went wrong.
-
-## Why This Project? 🤔
-
-This project is perfect for:
-
-- Beginners exploring Python programming 🐍
-
-- Learning how to handle user input and errors 🎯
-
-- Building confidence in coding simple, functional projects 💪
-
-## Getting Started 🚀
-
-### Prerequisites
-
-- A device with Python 3.x installed 💻
-
-### Steps
-
-- Clone the repository to your local machine 📥
-
-- Navigate to the project folder 📂
-
-- Run the script and start calculating 🎉
-
-## Contributing ❤️
-
-Want to make this calculator even better? We’d love your help!
-
-## Fork the repository 🍴
-
-- Add new features or improve the existing ones 🌟
-
-- Submit a pull request, and let’s collaborate 🤝
-
-## License 📝
-
-This project is licensed under the MIT License. Feel free to use it and spread the love!
-
-Enjoy using the Python Calculator and make math fun! 🎉
