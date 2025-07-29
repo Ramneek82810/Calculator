@@ -36,8 +36,6 @@ cd Calculator
 python calculator.py
 ```
 
-> ✅ Make sure you have **Python 3.x** installed. No additional installations are required since Tkinter comes pre-installed with Python.
-
 ## 💡 How It Works
 
 - Uses `tkinter.Tk()` to launch a GUI window  
