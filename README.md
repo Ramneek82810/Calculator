@@ -72,5 +72,3 @@ Contributions are welcome to improve UI, add features, or fix bugs. To contribut
 3. Commit your changes  
 4. Push to your branch  
 5. Create a pull request
-
-
