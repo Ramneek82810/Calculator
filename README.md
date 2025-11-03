@@ -10,7 +10,7 @@ A simple yet powerful GUI calculator built with Python's Tkinter library. This c
 - 🧠 Uses `eval()` for evaluating expressions  
 - 🔢 Display panel updates dynamically as the user inputs values  
 - 💡 Minimal and clean user interface using Tkinter  
-- 🪶 Lightweight – no external libraries required  
+- 🪶 Lightweight – no external libraries required   
 
 ## 📁 Project Structure
 
