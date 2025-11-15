@@ -1,7 +1,7 @@
 # 🧮 GUI Calculator using Python
 
 A simple yet powerful GUI calculator built with Python's Tkinter library. This calculator supports basic arithmetic operations and offers an intuitive interface for quick calculations. Ideal for beginners to learn GUI development in Python and event-driven programming.
-
+ 
 ## 🚀 Features
 
 - ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
