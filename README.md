@@ -7,7 +7,7 @@ A simple yet powerful GUI calculator built with Python's Tkinter library. This c
 - ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
 - 🖱️ Button-based interaction with real-time expression building  
 - 🔄 Clear button to reset the entire input field  
-- 🧠 Uses `eval()` for evaluating expressions  
+- 🧠 Uses `eval()` for evaluating expressions   
 - 🔢 Display panel updates dynamically as the user inputs values  
 - 💡 Minimal and clean user interface using Tkinter  
 - 🪶 Lightweight – no external libraries required   
