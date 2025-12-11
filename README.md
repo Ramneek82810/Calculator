@@ -9,7 +9,7 @@ A simple yet powerful GUI calculator built with Python's Tkinter library. This c
 - 🔄 Clear button to reset the entire input field  
 - 🧠 Uses `eval()` for evaluating expressions   
 - 🔢 Display panel updates dynamically as the user inputs values  
-- 💡 Minimal and clean user interface using Tkinter  
+- 💡 Minimal and clean user interface using Tkinter   
 - 🪶 Lightweight – no external libraries required   
  
 ## 📁 Project Structure 
