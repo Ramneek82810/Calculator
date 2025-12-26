@@ -13,7 +13,7 @@ A simple yet powerful GUI calculator built with Python's Tkinter library. This c
 - 🪶 Lightweight – no external libraries required   
  
 ## 📁 Project Structure 
-
+ 
 ```
 Calculator/
 │
